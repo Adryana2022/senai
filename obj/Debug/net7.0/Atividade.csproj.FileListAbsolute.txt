@@ -1,0 +1,15 @@
+/home/adriana/Área de Trabalho/senai/Atividade/bin/Debug/net7.0/Atividade
+/home/adriana/Área de Trabalho/senai/Atividade/bin/Debug/net7.0/Atividade.deps.json
+/home/adriana/Área de Trabalho/senai/Atividade/bin/Debug/net7.0/Atividade.runtimeconfig.json
+/home/adriana/Área de Trabalho/senai/Atividade/bin/Debug/net7.0/Atividade.dll
+/home/adriana/Área de Trabalho/senai/Atividade/bin/Debug/net7.0/Atividade.pdb
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/Atividade.csproj.AssemblyReference.cache
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/Atividade.AssemblyInfoInputs.cache
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/Atividade.AssemblyInfo.cs
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/Atividade.csproj.CoreCompileInputs.cache
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/Atividade.dll
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/refint/Atividade.dll
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/Atividade.pdb
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/Atividade.genruntimeconfig.cache
+/home/adriana/Área de Trabalho/senai/Atividade/obj/Debug/net7.0/ref/Atividade.dll
